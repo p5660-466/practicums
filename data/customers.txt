@@ -1,1 +1,3 @@
 dev,$2a$10$CQFJlYv.OxhOzGpIIS18fOuMN9WiKpLuEHFljrDTd/bHBlnd1gnKO
+devpatel,$2a$10$xwZX5/VRt59EdKph2AqRpenTWhBit4puXIa4c39Z9CnSXoxP5NB12
+john,$2a$10$H4ynZaS5HF5ftH5VK7duvuVku/plFebEKOm3pn7A4DUg8SQDz544K
