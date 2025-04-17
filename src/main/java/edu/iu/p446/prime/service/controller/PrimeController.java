@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @CrossOrigin
-@RequestMapping("/primes")
+@RequestMapping("/prime")
 public class PrimeController {
 
     IPrimeService primesService;
